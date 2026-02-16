@@ -26,9 +26,10 @@ Optional Note</li>
 <ul>
 <li>HTML5</li>
 <li>Tailwind CSS</li>
-<li></li>JavaScript (ES6)</li>
+<li>JavaScript (ES6)</li>
 <li>Browser localStorage API</li>
 </ul>
+
 📂 Project Structure
 📁 todo-app
 │── index.html
